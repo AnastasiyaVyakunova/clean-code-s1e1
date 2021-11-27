@@ -166,11 +166,11 @@ input,button{
     display: none;
 }
 
-.edit-mode .input-task {
+.li_edit-mode .input-task {
     display: inline-block;
     width: 224px;
 }
 
-.edit-mode .li__label {
+.li_edit-mode .li__label {
     display: none;
 }
